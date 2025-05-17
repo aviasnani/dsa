@@ -13,4 +13,4 @@ def check_armstrong(number):
         return True
     return False
 
-print(check_armstrong(407))  # Output: [1, 5, 3]
+print(check_armstrong(12))  # Output: [1, 5, 3]
